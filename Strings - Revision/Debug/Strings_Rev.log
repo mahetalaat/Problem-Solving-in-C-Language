@@ -1,0 +1,3 @@
+﻿  Source.c
+C:\Users\mahat\source\repos\Strings_Rev\Source.c(15,6): warning C4013: 'gets' undefined; assuming extern returning int
+  Strings_Rev.vcxproj -> C:\Users\mahat\source\repos\Strings_Rev\Debug\Strings_Rev.exe
