@@ -1,0 +1,4 @@
+﻿  Source.c
+C:\Users\mahat\source\repos\Recursion_Rev\Source.c(110,6): warning C4013: 'gets' undefined; assuming extern returning int
+C:\Users\mahat\source\repos\Recursion_Rev\Source.c(27): warning C4715: 'sumrec': not all control paths return a value
+  Recursion_Rev.vcxproj -> C:\Users\mahat\source\repos\Recursion_Rev\Debug\Recursion_Rev.exe
