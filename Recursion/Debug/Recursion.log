@@ -1,0 +1,4 @@
+﻿  Source.c
+C:\Users\mahat\source\repos\Recursion\Source.c(51,21): warning C4013: 'strlen' undefined; assuming extern returning int
+C:\Users\mahat\source\repos\Recursion\Source.c(19): warning C4715: 'sumOfRange': not all control paths return a value
+  Recursion.vcxproj -> C:\Users\mahat\source\repos\Recursion\Debug\Recursion.exe
