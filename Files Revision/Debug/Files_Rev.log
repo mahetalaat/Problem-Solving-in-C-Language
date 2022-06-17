@@ -1,0 +1,3 @@
+﻿  Source.c
+C:\Users\mahat\source\repos\Files_Rev\Source.c(84,7): warning C4101: 'ch': unreferenced local variable
+  Files_Rev.vcxproj -> C:\Users\mahat\source\repos\Files_Rev\Debug\Files_Rev.exe
