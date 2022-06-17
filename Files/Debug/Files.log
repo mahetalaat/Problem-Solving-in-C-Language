@@ -1,0 +1,4 @@
+﻿  Source.c
+C:\Users\mahat\source\repos\Files\Source.c(146,13): warning C4098: 'readwritefromusergetcputc': 'void' function returning a value
+C:\Users\mahat\source\repos\Files\Source.c(167,18): warning C4477: 'fscanf' : format string '%d' requires an argument of type 'int *', but variadic argument 2 has type 'int'
+  Files.vcxproj -> C:\Users\mahat\source\repos\Files\Debug\Files.exe
